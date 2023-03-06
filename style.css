@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+.height1 {
+    width: 510px;
+}
+
+.body {
+    font-family: sans-serif;
+}
+
+.main-menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-menu>li {
+    display: inline;
+    list-style-type: none;
+}
+
+.see {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.what {
+    text-align: center;
+}
+
+.what_we_do {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.footer_height {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer_text {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 495px;
+}
+
+.footer_ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.make_your_buisnes {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #000;
+    width: 359px;
+}
+
+.build {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #000;
+    width: 359px;
+}
+
+.bring {
+    padding: 10px;
+    margin: 5px;
+    border: 1px solid #000;
+    width: 359px;
+}
+
+.interes {
+    border: 1px solid #000;
+}
+
+.paragraph {
+    font-size: 16px;
+    line-height: 26px;
+    color: #1F3F68;
+}
+
+.content_2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.height1 {
+    font-size: 64px;
+    color: #1F3F68;
+}
+
+.text5 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.height3 {
+    width: 340px;
+}
+
+.con {
+    font-weight: 500;
+    font-size: 44px;
+    text-align: center;
+}
+
+.text3 {
+    font-size: 36px;
+    text-align: center;
+}
+
+.text4 {
+    font-size: 20px;
+    line-height: 30px;
+    color: #1F3F68;
+}
+
+.input {
+    order: 1px solid #356EAD;
+    box-sizing: border-box;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+.button {
+    background: #5A98D0;
+    box-shadow: 5px 20px 50px rgba(16, 112, 177, 0.2);
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
